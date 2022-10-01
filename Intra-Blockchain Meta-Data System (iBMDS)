@@ -1,0 +1,13 @@
+Intra-Blockchain Meta-Data System (iBMDS)
+
+
+Abstract: iBMDS, is essentialy a Multi-Blockchain as a Distributed File System (mBaaDFS) Protocol, for storing and reading full URI meta-data for any practical application.
+Instead of using the blockchain to store a single meta-data URI pointer hash to an IPFS end point file, iBMDS protocol stores all the text based meta-data found inside the hash pointer URI directly to the blockchain.
+Traditionaly IPFS and other P2P file sharing/storing services handled the text based meta-data in a JSON or general text file, along with an image pointer URL/URI.
+But with iMBDS protocol all the URI data is directly stored on chain. Large files such as images will still be stored off chain using IPFS and other P2P file services. 
+Practical example: An NFT collection, the respective meta-data for each NFT in the set is hard coded & copied to many different blockchains. This brings true decentraliztion and immutablility to NFT/digital assets.
+Smart Contracts can then directly call a particular NFT assest trait for PVP games, or even call on chain for traits relating to digital breeding between assets.
+iBMDS Protocol uses a minium of 4 blockchains, with cloned data on each.
+iBMDS employs the DaPPoRT UI Protocol for transaction validation and URI data read/write verification.
+The DaPPoRT Protocol is a Decentralized UI, still under development, but will be launched soon.
+
